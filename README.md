@@ -16,7 +16,8 @@ Markdown language is used on many web platforms such as wiki and forums.
 
 ## Images
 ![FESTO Logo](https://www.labvolt.com/image/logo_festo.png)
-:+1:
-
-:alien::imp:
-:family:
+ :de: <BR>
+ :+1: <BR>
+ :us: <BR>
+ :alien: :imp: <BR>
+ :family:<BR>
